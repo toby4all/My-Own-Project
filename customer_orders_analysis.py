@@ -1,5 +1,5 @@
-# customer_order_analysis.py
-
+# customer_orders_analysis.py
+# This script analyzes customer orders, classifies customers based on their spending,
 # Sample data
 customer_names = ["Alice", "Bob", "Charlie", "Diana"]
 
